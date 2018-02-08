@@ -1,5 +1,3 @@
-hello world
-
 # Kaggle Competiton
 ## Whalefluke Identification
 
